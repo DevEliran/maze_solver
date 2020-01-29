@@ -1,4 +1,4 @@
 # maze_solver
 
-Using Breath-first search algorithm.
+Using Breadth-first search algorithm.
 Other algorithm implementations will be added soon.
